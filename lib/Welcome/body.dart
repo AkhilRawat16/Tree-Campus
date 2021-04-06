@@ -20,7 +20,7 @@ class Body extends StatelessWidget {
             ),
             SizedBox(height: size.height * 0.05),
             Image.asset(
-              "assets/theme.png",
+              "assets/main_theme.jpeg",
               height: size.height * 0.45,
             ),
             SizedBox(height: size.height * 0.05),

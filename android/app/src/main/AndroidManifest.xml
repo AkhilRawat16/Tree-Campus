@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="Tree Campus"
-        android:icon="@drawable/theme">
+        android:icon="@drawable/main_theme">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
